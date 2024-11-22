@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sanjeev</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **React, Angular, Node**
 

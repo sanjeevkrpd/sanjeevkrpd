@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 - 💬 Ask me about **React, Angular, Node**
-- 🌐 Visit my portfolio: [https://sanjeev11.site](https://sanjeev11.site)
+- 🌐 Visit my portfolio: [https://sanjeev11.site](https://sanjeev-profile.online)
 - 📫 Reach me at **sanjeevkrpd11@gmail.com**
 
 ---
